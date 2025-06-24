@@ -5,7 +5,6 @@
   "dependencies": {
     "@ant-design/icons": "^6.0.0",
     "@apollo/client": "^3.13.8",
-    "@tanstack/react-virtual": "^3.13.11",
     "antd": "^5.26.2",
     "graphql": "^15.10.1",
     "react": "^19.1.0",
